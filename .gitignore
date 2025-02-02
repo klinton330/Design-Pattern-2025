@@ -1,0 +1,5 @@
+# Ignore Eclipse workspace and project settings
+.metadata/
+.classpath
+.project
+.settings/
