@@ -2,7 +2,7 @@ package com.builder;
 
 public class Client {
 	public static void main(String[] args) {
-		//Client
+		//Client method
 		ComputerBuilder computerBuilder = new GamingComputerBuilder();
 		ComputerDirector computerDirector = new ComputerDirector();
 		computerDirector.build(computerBuilder);
